@@ -1,6 +1,6 @@
-## Getting Started
+## Merge Sort processing speed Compared to Bubble Sort processing speed
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+The amount of time it takes a Merge Sort and Bubble Sort to sort an array of numbers. Which has a faster speed at processing? Run the code to find out.
 
 ## Folder Structure
 
